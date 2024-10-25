@@ -20,7 +20,7 @@ The repository contains:
 
 ## Architecture Overview
 
-![System Architecture](https://cdn.nlark.com/yuque/0/2024/jpeg/46067456/1729587224496-1a9b0fa9-bda9-4ef0-832f-d294cb92b0e7.jpeg)
+![System Architecture](https://github.com/user-attachments/assets/6db7490e-36d6-458e-a470-618f8e046428)
 
 The workflow consists of the following key components:
 
@@ -85,13 +85,14 @@ docker run -p 4200:4200 -p 5173:5173 -p 25734:25734 -e URL=${URL} -it llmtest4j:
 
 ### Dataset Upload
 
-![Dataset Upload](https://cdn.nlark.com/yuque/0/2024/png/46067456/1729596829237-1fd4d9e8-eea5-4073-a1e4-38c9962950aa.png)
+![Dataset Upload](https://github.com/user-attachments/assets/711d6e77-7bed-4105-9c71-6cb778b30107)
+
 
 Access the web interface and upload your dataset through the Dataset menu.
 
 ### Running Tests
 
-![Command Options](https://cdn.nlark.com/yuque/0/2024/png/46067456/1729584960101-1ba65762-d640-4422-8a42-d24c6ec07919.png)
+![Command Options](https://github.com/user-attachments/assets/e1d6419d-0d4e-4b6f-9b2b-bc92744cd600)
 
 Execute tests using:
 
@@ -101,12 +102,15 @@ python main.py --api_key xxxxx --api_base http://xxx.xx/v1 --dataset_name dat --
 
 ### Monitoring Progress
 
-![Task Monitoring](https://cdn.nlark.com/yuque/0/2024/png/46067456/1729584994479-4137379f-caff-4c2b-bcc0-f9394a4d704e.png)
-![Execution Details](https://cdn.nlark.com/yuque/0/2024/png/46067456/1729585469937-342b32f6-ca82-4db9-8368-82e2c196a903.png)
+![Task Monitoring](https://github.com/user-attachments/assets/96fdd35f-a5d8-4fb5-b2c1-6681c033fad4)
+
+![Execution Details](https://github.com/user-attachments/assets/673e0f0a-721f-4e58-812c-52df287dfcbe)
+
 
 ### Viewing Results
 
-![Results Dashboard](https://cdn.nlark.com/yuque/0/2024/png/46067456/1729585385917-5514f2d9-0d13-45e2-9b6e-0fd36313ca75.png)
+![Results Dashboard](https://github.com/user-attachments/assets/3b38b52d-17e3-48b1-8914-4e50b17051f1)
+
 
 Generated test files are saved in `~/GPT-Java-Tester/result`.
 
