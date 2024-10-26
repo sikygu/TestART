@@ -109,7 +109,7 @@ python main.py --api_key xxxxx --api_base http://xxx.xx/v1 --dataset_name dat --
 
 ### Viewing Results
 
-![Results Dashboard](https://github.com/user-attachments/assets/3b38b52d-17e3-48b1-8914-4e50b17051f1)
+![Results Dashboard](https://github.com/user-attachments/assets/f14195f2-33ab-4449-b970-412b23071227)
 
 
 Generated test files are saved in `~/GPT-Java-Tester/result`.
