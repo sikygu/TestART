@@ -1,0 +1,14 @@
+﻿,ec,pass_ec,diff
+cannot find symbol,1019,523,496
+cannot access,409,183,226
+is not abstract and does not override abstract method,378,72,306
+actual and formal argument lists differ in length,288,111,177
+no suitable constructor/method found,264,120,144
+others,257,176,81
+incompatible types,241,111,130
+is abstract; cannot be instantiated,234,88,146
+is ambiguous,207,148,59
+syntax error,193,152,41
+method does not override or implement a method from a supertype,171,23,148
+does not exist,126,60,66
+cannot be applied to given types,119,49,70

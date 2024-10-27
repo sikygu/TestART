@@ -1,0 +1,700 @@
+{
+  "_default": {
+    "1": {
+      "class_name": "AggregateTranslator",
+      "state": false
+    },
+    "2": {
+      "class_name": "AnnotationUtils",
+      "state": false
+    },
+    "3": {
+      "class_name": "ArrayUtils",
+      "state": false
+    },
+    "4": {
+      "class_name": "BasicThreadFactory",
+      "state": false
+    },
+    "5": {
+      "class_name": "BitField",
+      "state": false
+    },
+    "6": {
+      "class_name": "BooleanUtils",
+      "state": false
+    },
+    "7": {
+      "class_name": "CallableBackgroundInitializer",
+      "state": false
+    },
+    "8": {
+      "class_name": "CharEncoding",
+      "state": false
+    },
+    "9": {
+      "class_name": "CharRange",
+      "state": false
+    },
+    "10": {
+      "class_name": "CharSequenceUtils",
+      "state": false
+    },
+    "11": {
+      "class_name": "CharSet",
+      "state": false
+    },
+    "12": {
+      "class_name": "CharSetUtils",
+      "state": false
+    },
+    "13": {
+      "class_name": "CharUtils",
+      "state": false
+    },
+    "14": {
+      "class_name": "ClassUtils",
+      "state": false
+    },
+    "15": {
+      "class_name": "CloneFailedException",
+      "state": false
+    },
+    "16": {
+      "class_name": "CompareToBuilder",
+      "state": false
+    },
+    "17": {
+      "class_name": "CompositeFormat",
+      "state": false
+    },
+    "18": {
+      "class_name": "ConcurrentException",
+      "state": false
+    },
+    "19": {
+      "class_name": "ConcurrentRuntimeException",
+      "state": false
+    },
+    "20": {
+      "class_name": "ConcurrentUtils",
+      "state": false
+    },
+    "21": {
+      "class_name": "ConstantInitializer",
+      "state": false
+    },
+    "22": {
+      "class_name": "ConstructorUtils",
+      "state": false
+    },
+    "23": {
+      "class_name": "ContextedException",
+      "state": false
+    },
+    "24": {
+      "class_name": "ContextedRuntimeException",
+      "state": false
+    },
+    "25": {
+      "class_name": "Conversion",
+      "state": false
+    },
+    "26": {
+      "class_name": "DateFormatUtils",
+      "state": false
+    },
+    "27": {
+      "class_name": "DateUtils",
+      "state": false
+    },
+    "28": {
+      "class_name": "DefaultExceptionContext",
+      "state": false
+    },
+    "29": {
+      "class_name": "DurationFormatUtils",
+      "state": false
+    },
+    "30": {
+      "class_name": "EntityArrays",
+      "state": false
+    },
+    "31": {
+      "class_name": "EnumUtils",
+      "state": false
+    },
+    "32": {
+      "class_name": "EqualsBuilder",
+      "state": false
+    },
+    "33": {
+      "class_name": "EventListenerSupport",
+      "state": false
+    },
+    "34": {
+      "class_name": "EventUtils",
+      "state": false
+    },
+    "35": {
+      "class_name": "ExceptionUtils",
+      "state": false
+    },
+    "36": {
+      "class_name": "ExtendedMessageFormat",
+      "state": false
+    },
+    "37": {
+      "class_name": "FastDateFormat",
+      "state": false
+    },
+    "38": {
+      "class_name": "FastDateParser",
+      "state": false
+    },
+    "39": {
+      "class_name": "FastDatePrinter",
+      "state": false
+    },
+    "40": {
+      "class_name": "FieldUtils",
+      "state": false
+    },
+    "41": {
+      "class_name": "FormattableUtils",
+      "state": false
+    },
+    "42": {
+      "class_name": "Fraction",
+      "state": false
+    },
+    "43": {
+      "class_name": "HashCodeBuilder",
+      "state": false
+    },
+    "44": {
+      "class_name": "IDKey",
+      "state": false
+    },
+    "45": {
+      "class_name": "IEEE754rUtils",
+      "state": false
+    },
+    "46": {
+      "class_name": "ImmutablePair",
+      "state": false
+    },
+    "47": {
+      "class_name": "ImmutableTriple",
+      "state": false
+    },
+    "48": {
+      "class_name": "JavaUnicodeEscaper",
+      "state": false
+    },
+    "49": {
+      "class_name": "LocaleUtils",
+      "state": false
+    },
+    "50": {
+      "class_name": "LookupTranslator",
+      "state": false
+    },
+    "51": {
+      "class_name": "MethodUtils",
+      "state": false
+    },
+    "52": {
+      "class_name": "MultiBackgroundInitializer",
+      "state": false
+    },
+    "53": {
+      "class_name": "MutableBoolean",
+      "state": false
+    },
+    "54": {
+      "class_name": "MutableByte",
+      "state": false
+    },
+    "55": {
+      "class_name": "MutableDouble",
+      "state": false
+    },
+    "56": {
+      "class_name": "MutableFloat",
+      "state": false
+    },
+    "57": {
+      "class_name": "MutableInt",
+      "state": false
+    },
+    "58": {
+      "class_name": "MutableLong",
+      "state": false
+    },
+    "59": {
+      "class_name": "MutableObject",
+      "state": false
+    },
+    "60": {
+      "class_name": "MutablePair",
+      "state": false
+    },
+    "61": {
+      "class_name": "MutableShort",
+      "state": false
+    },
+    "62": {
+      "class_name": "MutableTriple",
+      "state": false
+    },
+    "63": {
+      "class_name": "NumberUtils",
+      "state": false
+    },
+    "64": {
+      "class_name": "NumericEntityEscaper",
+      "state": false
+    },
+    "65": {
+      "class_name": "NumericEntityUnescaper",
+      "state": false
+    },
+    "66": {
+      "class_name": "ObjectUtils",
+      "state": false
+    },
+    "67": {
+      "class_name": "OctalUnescaper",
+      "state": false
+    },
+    "68": {
+      "class_name": "RandomStringUtils",
+      "state": false
+    },
+    "69": {
+      "class_name": "Range",
+      "state": false
+    },
+    "70": {
+      "class_name": "ReflectionToStringBuilder",
+      "state": false
+    },
+    "71": {
+      "class_name": "SerializationException",
+      "state": false
+    },
+    "72": {
+      "class_name": "SerializationUtils",
+      "state": false
+    },
+    "73": {
+      "class_name": "StandardToStringStyle",
+      "state": false
+    },
+    "74": {
+      "class_name": "StopWatch",
+      "state": false
+    },
+    "75": {
+      "class_name": "StrBuilder",
+      "state": false
+    },
+    "76": {
+      "class_name": "StrSubstitutor",
+      "state": false
+    },
+    "77": {
+      "class_name": "StrTokenizer",
+      "state": false
+    },
+    "78": {
+      "class_name": "StringEscapeUtils",
+      "state": false
+    },
+    "79": {
+      "class_name": "StringUtils",
+      "state": false
+    },
+    "80": {
+      "class_name": "SystemUtils",
+      "state": false
+    },
+    "81": {
+      "class_name": "TimedSemaphore",
+      "state": false
+    },
+    "82": {
+      "class_name": "ToStringBuilder",
+      "state": false
+    },
+    "83": {
+      "class_name": "TypeUtils",
+      "state": false
+    },
+    "84": {
+      "class_name": "UnicodeEscaper",
+      "state": false
+    },
+    "85": {
+      "class_name": "UnicodeUnescaper",
+      "state": false
+    },
+    "86": {
+      "class_name": "Validate",
+      "state": false
+    },
+    "87": {
+      "class_name": "WordUtils",
+      "state": false
+    },
+    "88": {
+      "class_name": "AggregateTranslator",
+      "state": false
+    },
+    "89": {
+      "class_name": "AnnotationUtils",
+      "state": false
+    },
+    "90": {
+      "class_name": "ArrayUtils",
+      "state": false
+    },
+    "91": {
+      "class_name": "BasicThreadFactory",
+      "state": false
+    },
+    "92": {
+      "class_name": "BitField",
+      "state": false
+    },
+    "93": {
+      "class_name": "BooleanUtils",
+      "state": false
+    },
+    "94": {
+      "class_name": "CallableBackgroundInitializer",
+      "state": false
+    },
+    "95": {
+      "class_name": "CharEncoding",
+      "state": false
+    },
+    "96": {
+      "class_name": "CharRange",
+      "state": false
+    },
+    "97": {
+      "class_name": "CharSequenceUtils",
+      "state": false
+    },
+    "98": {
+      "class_name": "CharSet",
+      "state": false
+    },
+    "99": {
+      "class_name": "CharSetUtils",
+      "state": false
+    },
+    "100": {
+      "class_name": "CharUtils",
+      "state": false
+    },
+    "101": {
+      "class_name": "ClassUtils",
+      "state": false
+    },
+    "102": {
+      "class_name": "CloneFailedException",
+      "state": false
+    },
+    "103": {
+      "class_name": "CompareToBuilder",
+      "state": false
+    },
+    "104": {
+      "class_name": "CompositeFormat",
+      "state": false
+    },
+    "105": {
+      "class_name": "ConcurrentException",
+      "state": false
+    },
+    "106": {
+      "class_name": "ConcurrentRuntimeException",
+      "state": false
+    },
+    "107": {
+      "class_name": "ConcurrentUtils",
+      "state": false
+    },
+    "108": {
+      "class_name": "ConstantInitializer",
+      "state": false
+    },
+    "109": {
+      "class_name": "ConstructorUtils",
+      "state": false
+    },
+    "110": {
+      "class_name": "ContextedException",
+      "state": false
+    },
+    "111": {
+      "class_name": "ContextedRuntimeException",
+      "state": false
+    },
+    "112": {
+      "class_name": "Conversion",
+      "state": false
+    },
+    "113": {
+      "class_name": "DateFormatUtils",
+      "state": false
+    },
+    "114": {
+      "class_name": "DateUtils",
+      "state": false
+    },
+    "115": {
+      "class_name": "DefaultExceptionContext",
+      "state": false
+    },
+    "116": {
+      "class_name": "DurationFormatUtils",
+      "state": false
+    },
+    "117": {
+      "class_name": "EntityArrays",
+      "state": false
+    },
+    "118": {
+      "class_name": "EnumUtils",
+      "state": false
+    },
+    "119": {
+      "class_name": "EqualsBuilder",
+      "state": false
+    },
+    "120": {
+      "class_name": "EventListenerSupport",
+      "state": false
+    },
+    "121": {
+      "class_name": "EventUtils",
+      "state": false
+    },
+    "122": {
+      "class_name": "ExceptionUtils",
+      "state": false
+    },
+    "123": {
+      "class_name": "ExtendedMessageFormat",
+      "state": false
+    },
+    "124": {
+      "class_name": "FastDateFormat",
+      "state": false
+    },
+    "125": {
+      "class_name": "FastDateParser",
+      "state": false
+    },
+    "126": {
+      "class_name": "FastDatePrinter",
+      "state": false
+    },
+    "127": {
+      "class_name": "FieldUtils",
+      "state": false
+    },
+    "128": {
+      "class_name": "FormattableUtils",
+      "state": false
+    },
+    "129": {
+      "class_name": "Fraction",
+      "state": false
+    },
+    "130": {
+      "class_name": "HashCodeBuilder",
+      "state": false
+    },
+    "131": {
+      "class_name": "IDKey",
+      "state": false
+    },
+    "132": {
+      "class_name": "IEEE754rUtils",
+      "state": false
+    },
+    "133": {
+      "class_name": "ImmutablePair",
+      "state": false
+    },
+    "134": {
+      "class_name": "ImmutableTriple",
+      "state": false
+    },
+    "135": {
+      "class_name": "JavaUnicodeEscaper",
+      "state": false
+    },
+    "136": {
+      "class_name": "LocaleUtils",
+      "state": false
+    },
+    "137": {
+      "class_name": "LookupTranslator",
+      "state": false
+    },
+    "138": {
+      "class_name": "MethodUtils",
+      "state": false
+    },
+    "139": {
+      "class_name": "MultiBackgroundInitializer",
+      "state": false
+    },
+    "140": {
+      "class_name": "MutableBoolean",
+      "state": false
+    },
+    "141": {
+      "class_name": "MutableByte",
+      "state": false
+    },
+    "142": {
+      "class_name": "MutableDouble",
+      "state": false
+    },
+    "143": {
+      "class_name": "MutableFloat",
+      "state": false
+    },
+    "144": {
+      "class_name": "MutableInt",
+      "state": false
+    },
+    "145": {
+      "class_name": "MutableLong",
+      "state": false
+    },
+    "146": {
+      "class_name": "MutableObject",
+      "state": false
+    },
+    "147": {
+      "class_name": "MutablePair",
+      "state": false
+    },
+    "148": {
+      "class_name": "MutableShort",
+      "state": false
+    },
+    "149": {
+      "class_name": "MutableTriple",
+      "state": false
+    },
+    "150": {
+      "class_name": "NumberUtils",
+      "state": false
+    },
+    "151": {
+      "class_name": "NumericEntityEscaper",
+      "state": false
+    },
+    "152": {
+      "class_name": "NumericEntityUnescaper",
+      "state": false
+    },
+    "153": {
+      "class_name": "ObjectUtils",
+      "state": false
+    },
+    "154": {
+      "class_name": "OctalUnescaper",
+      "state": false
+    },
+    "155": {
+      "class_name": "RandomStringUtils",
+      "state": false
+    },
+    "156": {
+      "class_name": "Range",
+      "state": false
+    },
+    "157": {
+      "class_name": "ReflectionToStringBuilder",
+      "state": false
+    },
+    "158": {
+      "class_name": "SerializationException",
+      "state": false
+    },
+    "159": {
+      "class_name": "SerializationUtils",
+      "state": false
+    },
+    "160": {
+      "class_name": "StandardToStringStyle",
+      "state": false
+    },
+    "161": {
+      "class_name": "StopWatch",
+      "state": false
+    },
+    "162": {
+      "class_name": "StrBuilder",
+      "state": false
+    },
+    "163": {
+      "class_name": "StrSubstitutor",
+      "state": false
+    },
+    "164": {
+      "class_name": "StrTokenizer",
+      "state": false
+    },
+    "165": {
+      "class_name": "StringEscapeUtils",
+      "state": false
+    },
+    "166": {
+      "class_name": "StringUtils",
+      "state": false
+    },
+    "167": {
+      "class_name": "SystemUtils",
+      "state": false
+    },
+    "168": {
+      "class_name": "TimedSemaphore",
+      "state": false
+    },
+    "169": {
+      "class_name": "ToStringBuilder",
+      "state": false
+    },
+    "170": {
+      "class_name": "TypeUtils",
+      "state": false
+    },
+    "171": {
+      "class_name": "UnicodeEscaper",
+      "state": false
+    },
+    "172": {
+      "class_name": "UnicodeUnescaper",
+      "state": false
+    },
+    "173": {
+      "class_name": "Validate",
+      "state": false
+    },
+    "174": {
+      "class_name": "WordUtils",
+      "state": false
+    }
+  }
+}
