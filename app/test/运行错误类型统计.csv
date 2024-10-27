@@ -1,9 +1,0 @@
-﻿,ec,pass_ec,diff
-org.junit.Assert.assertEquals,1360,889,471
-error,918,753,165
-org.junit.Assert.assertTrue,436,401,35
-fail,206,69,137
-org.junit.Assert.assertFalse,178,177,1
-org.junit.Assert.assertNotNull,117,94,23
-org.junit.Assert.assertNull,108,105,3
-others,63,22,41
