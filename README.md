@@ -51,6 +51,8 @@ You can either run TestART locally or using Docker.
 - Maven 3.9.6
 - Java 8
 - PostgreSQL 16
+- TinyDB
+- Vue
 - Required Python dependencies
 
 Configure Prefect:
@@ -61,13 +63,46 @@ prefect config set PREFECT_API_URL="http://127.0.0.1:4200/api"
 prefect config set PREFECT_UI_API_URL="http://127.0.0.1:4200/api"
 ```
 
-Start Prefect server:
+### Start the backend Prefect server:
 
 ```bash
 prefect server start
 ```
 
-#### Docker Setup
+### Start Start the front-end Vue server:
+
+ 1.Project setup
+
+```
+npm ci
+```
+
+2.Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+3.Compiles and minifies for production
+
+```
+npm run build
+```
+
+4.Lints and fixes files
+
+```
+npm run lint
+```
+5.Components
+
+Many components in the Prefect UI come from the [prefect ui library](https://github.com/PrefectHQ/prefect-ui-library).  
+6.Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Docker Setup
 
 1. Load the image:
 
@@ -88,7 +123,7 @@ docker run -p 4200:4200 -p 5173:5173 -p 25734:25734 -e URL=${URL} -it llmtest4j:
 ![Dataset Upload](https://github.com/user-attachments/assets/711d6e77-7bed-4105-9c71-6cb778b30107)
 
 
-Access the web interface and upload your dataset through the Dataset menu.
+Access the web interface and upload your dataset through the Dataset menu.The port number of this page is 5173
 
 ### Running Tests
 
