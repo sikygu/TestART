@@ -63,13 +63,13 @@ prefect config set PREFECT_API_URL="http://127.0.0.1:4200/api"
 prefect config set PREFECT_UI_API_URL="http://127.0.0.1:4200/api"
 ```
 
-### Start the backend Prefect server:
+### Start the backend Prefect server（GPT-TestART）:
 
 ```bash
 prefect server start
 ```
 
-### Start Start the front-end Vue server:
+### Start Start the front-end Vue server（Prefect-ui）:
 
  1.Project setup
 
