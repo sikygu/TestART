@@ -1,3 +1,0 @@
-Well done. But there are some branches that have not been covered.
-Please provide more test cases to cover more branches.
-You don't need to output the previous code. Please provide new test methods with @Test.

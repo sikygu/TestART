@@ -1,7 +1,0 @@
-Your unit test has encountered an error. The code snippet and error details for the thrown exception are shown below.
-
-error code and error message:
-
-{error_message}
-
-Modify your test code accordingly and output completed test code in a java code cell.
